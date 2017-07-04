@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Baskek Ball</string>
+    <string-array name="Team_A">
+        <item>teamA</item>
+    </string-array>
+    <string-array name="Team_B">
+        <item>teamB</item>
+    </string-array>
+</resources>
